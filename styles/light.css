@@ -9,11 +9,12 @@
   --color: #ff8dcb;
   --color-opacity: #32312d66;
   --text-color: #353430;
+  --colors: #353430;
+  --color_button: var(--colors);
   --decoration-color: var(--text-color);
   --background-color: #fff1f7;
-  --header-color_1: #ffc2e6;
-  --header-color_2: var(--text-color);
-  --header-color_3: var(--text-color);
+  --header-color: #ffc2e6;
+  --header-color_text: var(--text-color);
   --is-light: hidden;
 }
 
@@ -23,11 +24,12 @@
     --color: #ff8dcb;
     --color-opacity: #32312d66;
     --text-color: #353430;
+    --colors: #353430;
+    --color_button: var(--colors);
     --decoration-color: var(--text-color);
     --background-color: #fff1f7;
-    --header-color_1: #ffc2e6;
-    --header-color_2: var(--text-color);
-    --header-color_3: var(--text-color);
+    --header-color: #ffc2e6;
+    --header-color_text: var(--text-color);
     --is-light: hidden;
     }
 }

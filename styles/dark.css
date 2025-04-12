@@ -9,10 +9,9 @@
   --color: #ff0070;
   --color-opacity: #ff007066;
   --text-color: #f1b2ce;
+  --colors: #000028;
+  --color_button: var(--color);
   --decoration-color: var(--color);
-  --background-color: #000028;
-  --header-color_1: #db00ff;
-  --header-color_2: var(--color);
-  --header-color_3: var(--background-color);
-  --is-light: visible;
+  --header-color: #db00ff;
+  --header-color_text: var(--color);
 }
