@@ -9,6 +9,7 @@
   --text-color: #f1b2ce;
   --decoration-color: var(--color);
   --background-color: #000028;
+  --colors: #000028;
   --header-color: #db00ff;
   --header-color_text: var(--color);
   --font-family: 'IBM Plex mono', monospace;

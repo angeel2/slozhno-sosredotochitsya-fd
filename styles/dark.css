@@ -14,4 +14,5 @@
   --decoration-color: var(--color);
   --header-color: #db00ff;
   --header-color_text: var(--color);
+  --is-light: visible; 
 }
